@@ -1,0 +1,40 @@
+
+body{
+    background-color: rgb(227,173,154);
+    
+}
+
+h2{
+    color: maroon;
+}
+
+.container{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin: auto;
+    width: 50%;
+    height: max-content;
+    padding: 25px;
+
+}
+
+img{
+    width: 100%;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.Preparation-time{
+    background-color: rgb(255, 208, 231);
+    border-radius: 10px;
+    padding: 20px ;
+    height: 130px;
+    width: auto;
+}
+
+.Nutrition b {
+    color: brown;}
+
+.child{
+    text-align: center;
+}
